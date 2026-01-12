@@ -1,2 +1,2 @@
-# Calm-Path-Coaching
-Website for Calm Path Coaching
+# Stress-Free-Coaching
+Website for Stress Free coaching 
